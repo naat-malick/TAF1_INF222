@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titre": "Introduction au Web",
+    "contenu": "Le web est un système...",
+    "auteur": "Charles",
+    "date": "2026-03-18",
+    "categorie": "Technologie",
+    "tags": [
+      "web",
+      "internet"
+    ]
+  },
+  {
+    "id": 3,
+    "titre": "Apprendre Node.js",
+    "contenu": "Express simplifie la création d'API",
+    "auteur": "Abdel",
+    "date": "2026-03-23",
+    "categorie": "Développement",
+    "tags": [
+      "node",
+      "express"
+    ]
+  }
+]
